@@ -1,5 +1,6 @@
 ## End-to-End DevOps Implementation for Scalable, Secure, and Efficient Application Deployment:
 
+
 ### Project highlights:
 
 1. Deployed a microservices-based application (Frontend and Backend) using **Docker containers**, ensuring seamless scaling, networking, and deployment on **Kubernetes**.
@@ -28,48 +29,68 @@
 
 ### Project Outcomes:
 
-1. Jenkins:
+1. **Jenkins**:
    
       ![image](https://github.com/user-attachments/assets/4362135f-a439-4628-8a22-5ff408f155b1)
+   ---
       ![image](https://github.com/user-attachments/assets/09482bb7-f7b8-4a27-97b4-b8f82fafcc77)
+   ---
       ![image](https://github.com/user-attachments/assets/19c53883-7615-453c-b9a3-57190f69d443)
+   ---
 
-2. SonarQube Scanner:
+3. **SonarQube** **Scanner**:
 
       ![image](https://github.com/user-attachments/assets/54ad762a-8b97-498b-9edf-97b08765b1b6)
+   ---
       ![image](https://github.com/user-attachments/assets/efa44f27-18eb-402e-9416-a5eea99bd7ec)
+   ---
 
-3. Prometheus and Grafana:
+5. **Prometheus and Grafana**:
 
       ![image](https://github.com/user-attachments/assets/fdf0c04a-5e47-45f8-abb4-3b4a6dc3a54c)
+   ---
       ![image](https://github.com/user-attachments/assets/e589e018-ec48-48de-aa4f-f11a85ab9828)
+   ---
       ![image](https://github.com/user-attachments/assets/a36278cc-e351-4093-9673-c0071e8df5e6)
+   ---
       ![image](https://github.com/user-attachments/assets/e963ee84-b97e-4d05-8257-f122a1557589)
+   ---
 
-5. Argo CD:
+7. **Argo CD**:
 
       ![image](https://github.com/user-attachments/assets/515d33df-23c2-4d26-8b0f-53067588023d)
+   ---
       ![image](https://github.com/user-attachments/assets/6c85843b-934d-480d-966d-2560468f0819)
+   ---
       ![image](https://github.com/user-attachments/assets/fdfa2301-9150-48e2-a593-99191be2fa3f)
+   ---
       ![image](https://github.com/user-attachments/assets/5f0efc27-b411-4839-b7a4-4b1d75015d4e)
+   ---
 
-6. AWS Infrastructure:
+9. **AWS Infrastructure**:
 
       ![image](https://github.com/user-attachments/assets/f9a9923b-316c-4159-824d-d3fef32f7242)
+   ---
       ![image](https://github.com/user-attachments/assets/75ac033e-5a06-4d42-91d1-5a72d756b6ef)
+   ---
       ![image](https://github.com/user-attachments/assets/05661a20-118c-4479-af17-82ddad11b730)
+   ---
       ![image](https://github.com/user-attachments/assets/62ac7b2e-4fba-4f41-97f0-02684fc24847)
+   ---
    
-7. Folder Structure:
+11. **Folder Structure**:
 
-   Terraform:
-   
+    **Terraform**:
+
       ![image](https://github.com/user-attachments/assets/b06ddca2-4609-4cc0-9c84-02b4a52ae275)
-
-   Docker:
+      ---
+      
+    **Docker**:
 
       ![image](https://github.com/user-attachments/assets/df0c9bc0-ccd1-4474-8914-fa9f62e4d23d)
+      ---
 
-   Kubernetes:
+    **Kubernetes**:
 
-     ![image](https://github.com/user-attachments/assets/ae721f06-ac23-4ab4-ac05-b034e3a78df8)
+      ![image](https://github.com/user-attachments/assets/ae721f06-ac23-4ab4-ac05-b034e3a78df8)
+     ---
